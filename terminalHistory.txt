@@ -1,0 +1,50 @@
+  296  conda activate dev
+  297  pwd
+  298  pwd
+  299  cd 
+  300  pwd4
+  301  pwd
+  302  cd desktop/Challenge_Folder/
+  303  mkdir New 3
+  304  mkdir chall3new
+  305  ls
+  306  cd chall3new/
+  307  git clone https://github.com/Ahmedfadiya/Module_3Challenge.git 
+  308  pwd
+  309  ls
+  310  cd Module_3Challenge/
+  311  ls
+  312  cd ..
+  313  git clone https://github.com/Ahmedfadiya/Module_3Challenge.git 
+  314  ls
+  315  cd Module_3Challenge/
+  316  pwd
+  317  pwd
+  318  ls
+  319  git status
+  320  git add .
+  321  git status
+  322  git push
+  323  git commit -m "Solution to collect, prepare and analyse the data for Bitcoin on two exchanges"
+  324  git push
+  325  git status
+  326  git add .
+  327  git status
+  328  git diff
+  329  git status
+  330  git diff
+  331  git status
+  332  git diff README.md
+  333  git add .
+  334  git status
+  335  git commit -m "Retrieve and cleaned the data, created analysis report . Updated the readme with relavant documentation"
+  336  git status
+  337  git push
+  338  git status
+  339  git diff
+  340  git add .
+  341  git status
+  342  git commit -m"Removed some stale data from the documentation template"
+  343  git history 50
+  344  history 50
+  345  history 50 > terminalHistory.txt
